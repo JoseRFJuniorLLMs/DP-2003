@@ -62,10 +62,19 @@
 ![](img/59.png)
 ![](img/60.png)
 ![](img/61.png)
+
+# ETL x ELT
 ![](img/62.png)
+
+# Single Gated
 ![](img/63.png)
+
+# Single Gated
 ![](img/64.png)
+
+# Parallel Data Loading
 ![](img/65.png)
+
 # Data Types
 ![](img/66.png)
 
