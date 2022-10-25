@@ -66,7 +66,9 @@
 ![](img/63.png)
 ![](img/64.png)
 ![](img/65.png)
+# Data Types
 ![](img/66.png)
+
 ![](img/67.png)
 ![](img/68.png)
 ![](img/69.png)
