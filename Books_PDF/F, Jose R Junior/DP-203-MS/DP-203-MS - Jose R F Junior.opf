@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">793c2c53-d1c2-4a96-9640-5225de515d21</dc:identifier>
+        <dc:title>DP-203-MS</dc:title>
+        <dc:creator opf:file-as="F, Jose R Junior" opf:role="aut">Jose R F Junior</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jose R F Junior&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-02T12:50:08+00:00"/>
+        <meta name="calibre:title_sort" content="DP-203-MS"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="DP-203-MS - Jose R F Junior.jpg"/>
+    </guide>
+</package>
