@@ -229,9 +229,16 @@
 # Snapshot Windows - (System.Timestamp)
 ![](img/75.png)
 
+# Type 1 SCD
 ![](img/76.png)
+
+# Type 2 SCD
 ![](img/77.png)
+
+# Type 3 SCD
 ![](img/78.png)
+
+# Type 4 SCD
 ![](img/79.png)
 ![](img/81.png)
 ![](img/82.png)
