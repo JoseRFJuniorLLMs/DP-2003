@@ -57,9 +57,17 @@
 ![](img/54.png)
 ![](img/55.png)
 ![](img/56.png)
+
+# Clustering Indexes
 ![](img/57.png)
+
+# Columnstore
 ![](img/58.png)
+
+# Indexes
 ![](img/59.png)
+
+# Azure Synapse Analytics
 ![](img/60.png)
 
 # ETL x ELT
@@ -77,7 +85,7 @@
 # Parallel Data Loading
 ![](img/65.png)
 
-# Data Types
+# SQL VS NoSQL
 ![](img/66.png)
 
 # SQL
