@@ -86,10 +86,20 @@
 
 # Windows - Stream Analytics
 ![](img/70.png)
+
+# Tumbling Windows - Caindo ( second, 10)
 ![](img/71.png)
+
+# Hopping Windows - Saltando (second, 10, 5)
 ![](img/72.png)
+
+# Sliding Windows - Deslizante (second, 10)
 ![](img/73.png)
+
+# Session Windows - Sessao (second, 5, 10)
 ![](img/74.png)
+
+# Snapshot Windows - (System.Timestamp)
 ![](img/75.png)
 
 ![](img/76.png)
