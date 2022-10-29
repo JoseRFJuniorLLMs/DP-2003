@@ -61,12 +61,14 @@
 ![](img/58.png)
 ![](img/59.png)
 ![](img/60.png)
-![](img/61.png)
 
 # ETL x ELT
-![](img/62.png)
+![](img/61.png)
 
 # Single Gated
+![](img/62.png)
+
+# Parallel - Data Loading
 ![](img/63.png)
 
 # Single Gated
@@ -78,7 +80,10 @@
 # Data Types
 ![](img/66.png)
 
+# SQL
 ![](img/67.png)
+
+# Database
 ![](img/68.png)
 
 # AirFlow Data
