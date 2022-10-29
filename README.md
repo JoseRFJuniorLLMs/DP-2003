@@ -4,58 +4,164 @@
 ![](img/1.png)
 ![](img/2.png)
 ![](img/3.png)
+
+# Azure Synapse Analytics
 ![](img/4.png)
+
+# Question
 ![](img/5.png)
+
+# Dimension, Factor, Staging
 ![](img/6.png)
+
+# Star Architecture
 ![](img/7.png)
+
+# Dim, Factor
 ![](img/8.png)
+
+# Question
 ![](img/9.png)
+
+# No-Clustered index structure
 ![](img/10.png)
+
+# ACID
 ![](img/11.png)
+
+# Stream Analytics
 ![](img/12.png)
+
+# IOT
 ![](img/13.png)
+
+# IOT Hub, Azure Function
 ![](img/14.png)
+
+# Prediction, Prescription, diagnostic, Description
 ![](img/15.png)
+
+# Azure Synapse Analytics
 ![](img/16.png)
+
+# Azure Synapse Analytics
 ![](img/17.png)
+
+# Azure Synapse Analytics
 ![](img/18.png)
+
+# Spark Nod
 ![](img/19.png)
+
+# Azure Synapse Link
 ![](img/20.png)
+
+# CosmosDB
 ![](img/21.png)
+
+# Kubernetes
 ![](img/22.png)
+
+# IOT
 ![](img/23.png)
+
+# Contenedor
 ![](img/24.png)
+
+# Storage
 ![](img/25.png)
+
+# Analytics
 ![](img/26.png)
+
+# Real Time
 ![](img/27.png)
+
+# Azure Stream Analytics
 ![](img/28.png)
+
+# Pipeline
 ![](img/29.png)
+
+# Pipeline Stream
 ![](img/30.png)
+
+# Integration Runtime Setup
 ![](img/31.png)
+
+# Integration Runtime
 ![](img/32.png)
+
+# Views, Acess, Consistency, Caching, Design, Issue, Indexes
 ![](img/33.png)
+
+# SPARK - Transfer data
 ![](img/34.png)
+
+# SPARK - JDBC
 ![](img/35.png)
+
+# SPARK - Polybase
 ![](img/36.png)
+
+# Dedicate SQL Pool
 ![](img/37.png)
+
+# Authentication
 ![](img/38.png)
+
+# T-SQL Statement
 ![](img/39.png)
+
+# Azure data store service
 ![](img/40.png)
+
+# Azure Storage Account
 ![](img/41.png)
+
+# Batch
 ![](img/42.png)
+
+# Synapse API
 ![](img/43.png)
+
+# Table Description
 ![](img/44.png)
+
+# Compressed Columnstore
 ![](img/45.png)
+
+# SQL DW
 ![](img/46.png)
+
+# Loggin Bulk Load
 ![](img/47.png)
+
+# TCP, UDP, TCP
 ![](img/48.png)
+
+# Modern Data Warehouse
 ![](img/49.png)
+
+# Star Architecture
 ![](img/50.png)
+
+# Query Performance
 ![](img/51.png)
+
+# Clustered, Non-Clustered, Clustered columsstore
 ![](img/52.png)
+
+# Read Committed Shapshot
 ![](img/53.png)
+
+# Caching
 ![](img/54.png)
+
+# Authentication
 ![](img/55.png)
+
+# Row Store vs Column store
 ![](img/56.png)
 
 # Clustering Indexes
