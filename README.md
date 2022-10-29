@@ -246,7 +246,11 @@
 
 # Data Factory
 ![](img/81.png)
+
+# Integration runtime
 ![](img/82.png)
+
+# Integration runtime types
 ![](img/83.png)
 ![](img/84.png)
 ![](img/85.png)
