@@ -83,12 +83,15 @@
 
 # AirFlow Data
 ![](img/69.png)
+
+# Windows - Stream Analytics
 ![](img/70.png)
 ![](img/71.png)
 ![](img/72.png)
 ![](img/73.png)
 ![](img/74.png)
 ![](img/75.png)
+
 ![](img/76.png)
 ![](img/77.png)
 ![](img/78.png)
