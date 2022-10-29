@@ -1,32 +1,40 @@
 ﻿# DP-203
 ![](img/00.png)
+
+# UPSKILL
 ![](img/0.png)
-![](img/1.png)
-![](img/2.png)
-![](img/3.png)
-
-# Azure Synapse Analytics
-![](img/4.png)
-
-# Question
-![](img/5.png)
-
-# Dimension, Factor, Staging
-![](img/6.png)
 
 # Star Architecture
-![](img/7.png)
-
-# Dim, Factor
-![](img/8.png)
+![](img/1.png)
 
 # Question
-![](img/9.png)
+![](img/2.png)
+
+# Dimension, Factor, Staging
+![](img/3.png)
+
+# Star Architecture
+![](img/4.png)
+
+# Star Architecture
+![](img/5.png)
+
+# Question
+![](img/6.png)
+
+# Question
+![](img/7.png)
 
 # No-Clustered index structure
-![](img/10.png)
+![](img/8.png)
 
 # ACID
+![](img/9.png)
+
+# Stream Analytics
+![](img/10.png)
+
+# IOT
 ![](img/11.png)
 
 # Stream Analytics
