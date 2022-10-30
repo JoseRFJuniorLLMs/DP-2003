@@ -252,7 +252,11 @@
 
 # Integration runtime types
 ![](img/83.png)
+
+# MLOPS
 ![](img/84.png)
+
+# Unlike Hadoop external tables, native external tables don't return subfolders
 ![](img/85.png)
 ![](img/86.png)
 ![](img/87.png)
