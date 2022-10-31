@@ -258,7 +258,7 @@
 
 # Unlike Hadoop external tables, native external tables don't return subfolders
 ![](img/85.png)
-![](img/86.png)
+![](img/86.gif)
 ![](img/87.png)
 ![](img/88.png)
 ![](img/89.png)
