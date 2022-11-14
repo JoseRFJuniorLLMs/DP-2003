@@ -274,7 +274,7 @@
 ![](img/99.png)
 ![](img/100.png)
 ![](img/101.png)
-![](img/102.png)
+![](img/102.gif)
 ![](img/103.png)
 ![](img/104.png)
 ![](img/105.png)
