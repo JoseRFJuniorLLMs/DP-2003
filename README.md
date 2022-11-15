@@ -308,9 +308,37 @@
 
 # Big data architecture style
 ![](img/103.png)
+
+# The holistic workflow:
 ![](img/104.png)
+
+# Azure Storage
 ![](img/105.png)
+
+# Subscription Organization
+Configurações da conta de armazenamento
+Uma conta de armazenamento define uma política que se aplica a todos os serviços de armazenamento na conta. Por exemplo, você pode especificar que todos os serviços contidos serão armazenados no datacenter do Oeste dos EUA, acessíveis somente por HTTPS e cobrados na assinatura do departamento de vendas.
+
+As configurações definidas por uma conta de armazenamento são:
+
+Assinatura: a assinatura do Azure que será cobrada pelos serviços na conta.
+
+Localização: o datacenter que armazenará os serviços na conta.
+
+Desempenho: determina os serviços de dados que você pode ter em sua conta de armazenamento e o tipo de discos de hardware usados para armazenar os dados.
+
+Standard permite que você tenha qualquer serviço de dados (Blob, Arquivo, Fila, Tabela) e use unidades de disco magnéticas.
+O Premium oferece mais serviços para armazenar dados. É possível, por exemplo, armazenar dados de objeto não estruturado, como blobs de blocos ou blobs de acréscimo, e armazenamento de arquivos especializado usado para armazenar e criar compartilhamentos de arquivos premium. Essas contas de armazenamento usam SSDs (unidades de estado sólido) para armazenamento.
+Replicação: Determina a estratégia usada para fazer cópias dos dados para se proteger contra falhas de hardware ou desastres naturais. No mínimo, o Azure mantém automaticamente três cópias dos dados no datacenter associado à conta de armazenamento. A replicação mínima é chamada de LRS (armazenamento com redundância local) e oferece proteção contra falhas de hardware, mas não contra eventos que prejudicam o datacenter inteiro. Você pode atualizar para uma das outras opções, como o GRS (armazenamento com redundância geográfica), para obter a replicação em datacenters diferentes no mundo.
+
+Camada de acesso: controla a rapidez com que você poderá acessar os blobs em uma conta de armazenamento. A camada de armazenamento frequente proporciona acesso mais rápido do que a camada de armazenamento esporádico, mas com um aumento de custo. A camada de acesso quente se aplica somente a blobs e representa o valor padrão para novos blobs.
+
+Transferência segura obrigatória: um recurso de segurança que determina os protocolos compatíveis para acesso. A opção Habilitado exige HTTPS, enquanto a opção Desabilitado permite HTTP.
+
+Redes virtuais: um recurso de segurança que permite solicitações de acesso de entrada apenas das redes virtuais especificadas.
 ![](img/106.png)
+
+# 
 ![](img/107.png)
 ![](img/108.png)
 ![](img/109.png)
