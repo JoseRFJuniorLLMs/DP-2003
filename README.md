@@ -258,23 +258,55 @@
 
 # Unlike Hadoop external tables, native external tables don't return subfolders
 ![](img/85.png)
-![](img/86.gif)
+![](img/86.png)
+
+# SQL
 ![](img/87.png)
+
+# Cloud Comparasion
 ![](img/88.png)
+
+# MySQL JOIN
 ![](img/89.png)
 ![](img/90.png)
+
+# Modern Data Stack
 ![](img/91.png)
+
+# SCD
 ![](img/92.png)
+
+# Fact, Dimension, Staging
 ![](img/93.png)
+
+# Data Factory
 ![](img/94.png)
+
+# Data Engineering
 ![](img/95.png)
+
+# OLAP
 ![](img/96.png)
+
+# Apache Spark x Apache AirFlow
 ![](img/97.png)
+
+# Pinot
 ![](img/98.png)
+
+# Data Lake , Data Whaerhouser, Data Marts, Architecture.
 ![](img/99.png)
+
+# Azure Active Directory
 ![](img/100.png)
+
+# Question
 ![](img/101.png)
-![](img/102.gif)
+
+# Capture events through Azure Event Hubs in Azure Blob Storage or Azure Data Lake Storage
+![](img/102.png)
+
+# Big data architecture style
 ![](img/103.png)
 ![](img/104.png)
 ![](img/105.png)
