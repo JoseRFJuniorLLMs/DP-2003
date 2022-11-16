@@ -338,12 +338,29 @@ Transferência segura obrigatória: um recurso de segurança que determina os pr
 Redes virtuais: um recurso de segurança que permite solicitações de acesso de entrada apenas das redes virtuais especificadas.
 ![](img/106.png)
 
-# 
+# Databases
 ![](img/107.png)
+
+# Obtención e integración de los datos
+# Conservación de los datos
+# Evaluación y análisis de los datos
+
+# Recolección
+# Almacenamiento y conservación
+# Entrega (para su consulta)
 ![](img/108.png)
+
+# La tabla de hechos contiene los índices y las métricas sobre los eventos de una empresa que se deben registrar de forma continua (el volumen de ventas, por ejemplo).
+# Las tablas de dimensiones contienen atributos que describen los datos de la tabla de hechos. Se trata así de un conjunto de datos de referencia para los eventos registrados en la tabla de hechos.
 ![](img/109.png)
+
+# Snowflake Schema
 ![](img/110.png)
+
+# OLAP 
 ![](img/111.png)
+
+# Slicing: se conoce como slicing el procedimiento por el cual se delimita una dimensión del cubo OLAP por una porción cuantitativa, prácticamente como si se cortara un “trozo” de datos y se estudiara por separado.
 ![](img/112.png)
 ![](img/113.png)
 ![](img/114.png)
