@@ -362,8 +362,14 @@ Redes virtuais: um recurso de segurança que permite solicitações de acesso de
 
 # Slicing: se conoce como slicing el procedimiento por el cual se delimita una dimensión del cubo OLAP por una porción cuantitativa, prácticamente como si se cortara un “trozo” de datos y se estudiara por separado.
 ![](img/112.png)
+
+# Dicing: cuando se interviene en un cubo OLAP con varias operaciones de slicing simultáneas en varias dimensiones se habla de dicing, porque se crea un cubo nuevo más reducido que contiene una porción del cubo global.
 ![](img/113.png)
+
+# Pivoting: este hace referencia al método de girar un cubo de datos de forma que se visualice, al menos, otra dimensión.
 ![](img/114.png)
+
+# Drill down/Roll up: cuando las variables de un objeto se deben desglosar a valores aún más detallados se utiliza la operación drill down, que permite a los analistas ampliar una sección del cubo OLAP para aumentar su grado de detalle. La operación inversa se denomina roll up y en ella se compacta la información a niveles más altos de la jerarquía. Ambos se utilizan en la navegación en estructuras jerárquicas multidimensionales.
 ![](img/115.png)
 ![](img/116.png)
 ![](img/117.png)
