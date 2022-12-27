@@ -371,15 +371,35 @@ Redes virtuais: um recurso de segurança que permite solicitações de acesso de
 
 # Drill down/Roll up: cuando las variables de un objeto se deben desglosar a valores aún más detallados se utiliza la operación drill down, que permite a los analistas ampliar una sección del cubo OLAP para aumentar su grado de detalle. La operación inversa se denomina roll up y en ella se compacta la información a niveles más altos de la jerarquía. Ambos se utilizan en la navegación en estructuras jerárquicas multidimensionales.
 ![](img/115.png)
+
+# Tool
 ![](img/116.png)
+
+# Tool
 ![](img/117.png)
+
+# Infra
 ![](img/118.png)
+
+# Data Stack
 ![](img/119.png)
+
+# SQL RoadMap
 ![](img/120.png)
+
+# ETL / ELT
 ![](img/121.png)
+
+# ETL / ELT
 ![](img/122.png)
+
+# ETL / ELT
 ![](img/123.png)
+
+# ETL / ELT
 ![](img/124.png)
+
+# Stream
 ![](img/125.png)
 ![](img/126.png)
 ![](img/127.png)
