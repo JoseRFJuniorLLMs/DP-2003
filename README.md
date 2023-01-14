@@ -1,7 +1,7 @@
 ﻿# DP-203
 ![](img/00.png)
 
-![](img/002.png)
+![](img/000.png)
 # UPSKILL
 ![](img/0.png)
 
