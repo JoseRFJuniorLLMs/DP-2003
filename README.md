@@ -14,6 +14,8 @@
 # Dimension, Factor, Staging
 ![](img/3.png)
 
+![](img/3.3.png)
+
 # Star Architecture
 ![](img/4.png)
 
