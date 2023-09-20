@@ -64,6 +64,9 @@
 # Spark Nod
 ![](img/19.png)
 
+![](img/spark_arquitetura.png)
+
+
 # Azure Synapse Link
 ![](img/20.png)
 
