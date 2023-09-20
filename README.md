@@ -66,7 +66,7 @@
 
 # Spark Architecture
 ![](img/spark_arquitetura.png)
-
+![](img/spark_arquitetura2.png)
 
 # Azure Synapse Link
 ![](img/20.png)
