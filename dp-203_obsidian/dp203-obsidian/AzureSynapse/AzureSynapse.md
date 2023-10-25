@@ -387,3 +387,9 @@ ALTER TABLE [logdata] SWITCH PARTITION 2 TO [logdata_new] PARTITION 1;
 [[Orchestrate with pipelines]]
 [[Create and set up a Synapse workspace]]
 [[High concurrency cluste]]
+
+[[Create and setup a Synapse workspace]]
+[[Analyze using a Data Explorer pool]]
+[[Add an administrator]]
+[[Visualize data with Power BI]]
+[[Explore the Knowledge center]]

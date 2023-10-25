@@ -25,7 +25,7 @@ tags:
     - [[Types of clusters]]
     
     - [[Interactive clusters]]: interactive notebooks and multiple users can use a cluster for collaboration
-    - Job cluster: cluster is started when the job has to run, and will be terminated once the job is completed
+    - [[Job cluster]]: cluster is started when the job has to run, and will be terminated once the job is completed
     -  [[Types of Interactive cluster]]
     - [[Standard cluster]]:
         - recommended if you are a single user
@@ -95,3 +95,4 @@ tags:
 -  [[Streaming from Azure Event Hub - Setup ]] 
 -  [[Streaming from Azure Event Hub - Implementation ]]
 -  [[Deleting the workspace]]
+- [[Design and Develop Data Processing - Azure Databricks]]

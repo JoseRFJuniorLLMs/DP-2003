@@ -11,7 +11,7 @@ tags:
     - [[Types of clusters]]
     
     - [[Interactive clusters]]: interactive notebooks and multiple users can use a cluster for collaboration
-    - Job cluster: cluster is started when the job has to run, and will be terminated once the job is completed
+    - [[Job cluster]]: cluster is started when the job has to run, and will be terminated once the job is completed
 -  [[Types of Interactive cluster]]
     
     - [[Standard cluster]]:
@@ -25,3 +25,4 @@ tags:
         - resources are shared across different user workloads
         - support for python, R and SQL (no scala)
         - table access control: can grant and revke access to data from python and SQL
+    - [[Autoscaling a cluster]]
