@@ -1,0 +1,16 @@
+- [[Azure storage account]]
+- Azure Blob Storage vs. Azure Data Lake Storage Gen2
+- storage account -> access keys
+- storage account -> shared access signature (SAS)
+- storage account -> Redundancy
+    - LRS
+    - ZRS
+    - GRS
+    - Read-access GRS
+    - GZRS
+    - Read-access GZRS
+- storage account -> access tiers
+    - Hot: frequently access data
+    - Cool: infrequently access data
+    - archive: not availavble at storage account level, available at indivudual blob level
+- storage account -> Lifecycle management

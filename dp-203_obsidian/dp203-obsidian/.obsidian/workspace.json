@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "d7ec9070f560dc53",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca17200713056a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "784a5a0ee8aac241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP-203.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d462b9b611e25908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP-203.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92d446c5a6e61565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP-203.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b045674b940426d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP-203.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12f8f76f5b792063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP-203.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c456d6247fe45935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP-203.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7768559c6d3e3cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP-203.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c23ce4bf9c6add7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dfa31c0f1a1a379",
+    "type": "split",
+    "children": [
+      {
+        "id": "491c9603a7ebbbb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "836a72da80909bfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67d6b4023b7f1a84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43daa0d26ebbe218",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "7fb2b34e1352be8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc38fe155fe5fd1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e9c4552e5a0a17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DP-203.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3dec02165e82e9f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DP-203.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c7939e2f28e739a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04511046bd8a54d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DP-203.md"
+              }
+            }
+          },
+          {
+            "id": "30a01ed0b14a30a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "d42c23d294f1cd4f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "836a72da80909bfb",
+  "lastOpenFiles": [
+    "Charged when underlying jobs are running.md",
+    "DP-203.md",
+    "ADF components.md",
+    "Surrogate keys for dimension tables.md",
+    "Not charged on creation of pool.md",
+    "Optimized autoscaling.md",
+    "Serverless spark pool.md",
+    "Big data streaming platform.md",
+    "Spark Pool.md",
+    "Consumer groups.md",
+    "Indexes.md",
+    "Standard autoscaling.md",
+    "Spark tables creation.md",
+    "Partitions.md",
+    "Hash-distributed tables.md",
+    "Slowly changing dimensions.md",
+    "Azure Synapse - Column level security.md",
+    "Event producers.md",
+    "Designing a data warehouse.md",
+    "Load data using external table using polybase.md",
+    "Load data using COPY statement.md",
+    "Apache spark pool.md",
+    "Archive.md",
+    "Create a database.md",
+    "Create external datasource.md",
+    "Create table structure in synapse.md",
+    "Recording 20231022081648.webm",
+    "Revisados",
+    "NOTKNOW",
+    "KNOW"
+  ]
+}
