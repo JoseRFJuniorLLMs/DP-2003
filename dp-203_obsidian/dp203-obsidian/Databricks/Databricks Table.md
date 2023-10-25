@@ -1,0 +1,11 @@
+---
+tags:
+  - Databricks
+---
+- In Azure Databricks, you can also create a database and tables
+- The table is a collection of structured data
+- You can then perform operations on the data that are supported by Apache Spark on DataFrames on Azure Databricks tables
+- There are two types of tables – global and local tables.
+- A global table is available across all clusters
+- A global table is registered in the Azure Databricks Hive metastore or an external metastore
+- The local table is not accessible from other clusters and is not registered in the Hive metastore

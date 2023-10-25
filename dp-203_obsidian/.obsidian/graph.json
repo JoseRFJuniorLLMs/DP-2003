@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#Databricks  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#AzureSynapse  ",
+      "color": {
+        "a": 1,
+        "rgb": 14564250
+      }
     }
   ],
   "collapse-display": true,
@@ -30,8 +44,8 @@
   "collapse-forces": false,
   "centerStrength": 0.00520833333333333,
   "repelStrength": 10,
-  "linkStrength": 1,
+  "linkStrength": 0.40625,
   "linkDistance": 250,
-  "scale": 0.7132754626224438,
+  "scale": 0.1316872427983552,
   "close": true
 }
