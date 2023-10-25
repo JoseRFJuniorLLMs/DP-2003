@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6613474b9bcca9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dp203-obsidian/DP-203.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,9 +159,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "443f8043f33ff22f",
+  "active": "aea29d8cbc295725",
   "lastOpenFiles": [
-    "dp203-obsidian/Azure Synapse - Data Discovery and Classification.md",
-    "dp203-obsidian/DP-203.md"
+    "Design and Implement Data Security.md",
+    "dp203-obsidian/DP-203.md",
+    "Optimize data storage and data processing.md",
+    "Types of clusters.md",
+    "dp203-obsidian/Spark table.md",
+    "dp203-obsidian/Spark Dataframe.md",
+    "dp203-obsidian/Driver node.md",
+    "dp203-obsidian/Data Storage.md",
+    "dp203-obsidian/Receivers.md",
+    "dp203-obsidian/Worker nodes.md",
+    "dp203-obsidian/Creates RDD - Resilient Distributed Dataset.md",
+    "dp203-obsidian/Driver node and executors.md",
+    "dp203-obsidian/Spark scala.md",
+    "dp203-obsidian/Throughput.md",
+    "dp203-obsidian/Large datasets and distribute computation across multiple pools.md",
+    "dp203-obsidian/Make connection.md",
+    "dp203-obsidian/Loading data using Poly Base.md",
+    "dp203-obsidian/Databricks.md",
+    "dp203-obsidian/Teste.md",
+    "dp203-obsidian/Azure Synapse - Data Discovery and Classification.md"
   ]
 }
