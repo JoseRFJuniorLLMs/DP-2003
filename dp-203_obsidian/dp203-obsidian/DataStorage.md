@@ -18,3 +18,4 @@ tags:
     - [[Cool infrequently access data]]
     - [[Archive]]: not availavble at storage account level, available at indivudual blob level
 - [[Storage account]] -> Lifecycle management
+- [[Azure Storage Accounts - Virtual Network Service Endpoint]]

@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dae89ce87b27ec55",
+        "id": "ed0596b45e8b5d41",
         "type": "tabs",
         "children": [
           {
-            "id": "e0fbce72de8d918a",
+            "id": "09d08a6a12c00eed",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "12c18b6be2576dbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dp203-obsidian/Datastorage/Azure storage account.md",
-                "mode": "source",
-                "source": true
-              }
             }
           }
         ]
@@ -77,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 207.5
   },
   "right": {
     "id": "de274d8545618732",
@@ -150,34 +138,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0fbce72de8d918a",
+  "active": "09d08a6a12c00eed",
   "lastOpenFiles": [
-    "dp203-obsidian/Datastorage/Azure Storage Accounts - Virtual Network Service Endpoint.md",
-    "dp203-obsidian/Datastorage/Azure storage account.md",
-    "Types of Interactive cluster.md",
-    "dp203-obsidian/Databricks/Clusters in Azure Databricks.md",
-    "dp203-obsidian/AzureSynapse/Job cluster.md",
-    "dp203-obsidian/Databricks/Types of Interactive cluster.md",
-    "dp203-obsidian/Databricks/Databricks.md",
-    "dp203-obsidian/AzureSynapse/Autoscaling a cluster.md",
-    "dp203-obsidian/Databricks/Streaming from Azure Event Hub - Implementation.md",
-    "dp203-obsidian/Databricks/Autoscaling a cluster.md",
-    "dp203-obsidian/Databricks/Optimized autoscaling.md",
-    "dp203-obsidian/Databricks/Standard autoscaling.md",
-    "dp203-obsidian/Databricks/High concurrency cluster.md",
-    "dp203-obsidian/Databricks/Standard cluster.md",
-    "dp203-obsidian/Databricks/Design and Develop Data Processing - Azure Databricks.md",
-    "dp203-obsidian/Creating a cluster.md",
-    "dp203-obsidian/Databricks/Streaming data using Azure Data bricks.md",
-    "dp203-obsidian/AzureSynapse/AzureSynapse.md",
-    "dp203-obsidian/AzureSynapse/Explore the Knowledge center.md",
-    "dp203-obsidian/AzureSynapse/Visualize data with Power BI.md",
-    "dp203-obsidian/AzureSynapse/Add an administrator.md",
-    "dp203-obsidian/AzureSynapse/Analyze using a Data Explorer pool.md",
-    "dp203-obsidian/AzureSynapse/Create and setup a Synapse workspace.md",
+    "dp203-obsidian/AzureSynapse/Database templates.md",
     "dp203-obsidian/DP-203.md",
-    "dp203-obsidian/AzureSynapse/Monitor activities.md",
-    "dp203-obsidian/Databricks/Deleting the workspace.md",
+    "dp203-obsidian/AzureSynapse/Apache Spark.md",
+    "dp203-obsidian/AzureSynapse/Data Explorer.md",
+    "dp203-obsidian/AzureSynapse/Pipeline and data flow.md",
+    "dp203-obsidian/OptimizeStorageProcessing/View on Azure Monitor.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Optimize data storage and data processing.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Microsoft Purview - Azure Data Lake.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Microsoft Purview - Azure Data Factory.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Microsoft Purview.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Best practices for structing files in your data lake.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Synapse transactions.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Synapse Monitoring - Quick Overview.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Synapse - Workload Management - Resources.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Synapse - Workload Management.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Synapse - Transaction logging.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Synapse - System Views.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Stream Analytics - The importance of time.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Stream Analytics - Streaming Units.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Stream Analytics - Metrics.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Stream Analytics - Job Diagram.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Event Hubs and Stream Analytics - Partitions.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Databricks - Sending logs to Azure Monitor.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Databricks - Pool.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Databricks - Monitoring.md",
+    "dp203-obsidian/OptimizeStorageProcessing/Azure Data Lake Gen2 lifecycle policies.md",
+    "dp203-obsidian/OptimizeStorageProcessing",
+    "dp203-obsidian/DataSecurity",
     "dp203-obsidian/Datafactory",
     "dp203-obsidian/AzureSynapse",
     "dp203-obsidian/Datastorage",
