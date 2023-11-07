@@ -1,0 +1,3 @@
+Hash
+Replicated
+Round Robin

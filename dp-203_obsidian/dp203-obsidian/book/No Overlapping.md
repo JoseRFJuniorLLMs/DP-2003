@@ -1,0 +1,3 @@
+Tumbling
+Session
+Snapshot

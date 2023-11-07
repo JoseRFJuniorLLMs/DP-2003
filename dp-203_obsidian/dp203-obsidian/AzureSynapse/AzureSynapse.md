@@ -88,7 +88,7 @@ tags:
     
 - using azure [[Synapse pipeline]], can perform tranformations on data before copying the data to the warehouse
     
-- using [[Polybase]] to define external tables, use external tables to create the internal tables
+- using [[dp203-obsidian/AzureSynapse/Polybase]] to define external tables, use external tables to create the internal tables
     
 - 1 - [[Load data using COPY statement]]
     
@@ -332,7 +332,7 @@ CREATE INDEX ProductIDIndex ON [dbo].[SalesFact_staging] (ProductID)
 - In heap tables - no option to create clustered column store INDEX
 - so, we can create a non-clustered INDEX using `CREATE INDEX`
 ##### [4.11 Partitions](https://github.com/jithendray/dp203-azure-data-engineering/blob/main/README.md#411-partitions)
-[[Partitions]]
+[[dp203-obsidian/AzureSynapse/Partitions]]
 ```sql
 -- Let's create a new table with partitions
 CREATE TABLE [logdata]

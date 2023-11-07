@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7bff45b1d94d316b",
+    "id": "756682b774437f64",
     "type": "split",
     "children": [
       {
-        "id": "ed0596b45e8b5d41",
+        "id": "85b6740ebd40535b",
         "type": "tabs",
         "children": [
           {
-            "id": "09d08a6a12c00eed",
+            "id": "53c75d87335d7191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dp203-obsidian/book/Untitled.md",
+                "file": "dp-203_obsidian/dp203-obsidian/DP-203.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d2bac6f1dbf08b93",
+    "id": "38157700ac51198d",
     "type": "split",
     "children": [
       {
-        "id": "18f31097bd4576de",
+        "id": "e58ab0482624d33e",
         "type": "tabs",
         "children": [
           {
-            "id": "aea29d8cbc295725",
+            "id": "2c60fc0453969250",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "2fd6045fa8b21f03",
+            "id": "c29fd9db6d2e832c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "11f718b16b488df6",
+            "id": "cfd8e5176f51681f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "de274d8545618732",
+    "id": "f4a2f69509f342a4",
     "type": "split",
     "children": [
       {
-        "id": "0b838deb8776ae00",
+        "id": "b8be09ff6e6e3f6d",
         "type": "tabs",
         "children": [
           {
-            "id": "10a960ae579161fe",
+            "id": "2540a60ce6a56d3f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dp203-obsidian/book/Untitled.md",
+                "file": "dp-203_obsidian/dp203-obsidian/DP-203.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "1f18a11e6c9c0a77",
+            "id": "72db5a07ba8cf34f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dp203-obsidian/book/Untitled.md",
+                "file": "dp-203_obsidian/dp203-obsidian/DP-203.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4537f9bc49eb1017",
+            "id": "cc8d9c634edfbb5d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "d53ddcf5c7ce6441",
+            "id": "d62a20a5a039c21b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "dp203-obsidian/book/Untitled.md"
+                "file": "dp-203_obsidian/dp203-obsidian/DP-203.md"
               }
             }
           }
@@ -146,40 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09d08a6a12c00eed",
+  "active": "53c75d87335d7191",
   "lastOpenFiles": [
-    "dp203-obsidian/book/Overlapping.md",
-    "dp203-obsidian/book/Untitled.md",
-    "dp203-obsidian/book/No Overlapping.md",
-    "dp203-obsidian/book/Replicated.md",
-    "dp203-obsidian/book/Round Robin.md",
-    "dp203-obsidian/book/Hash.md",
-    "dp203-obsidian/book/Polybase.md",
-    "dp203-obsidian/book/OLTP.md",
-    "dp203-obsidian/book/OLAP.md",
-    "dp203-obsidian/book/CosmosDB.md",
-    "dp203-obsidian/book/Data Factory.md",
-    "dp203-obsidian/book/Encenacao.md",
-    "dp203-obsidian/book/Dim.md",
-    "dp203-obsidian/book/Fac.md",
-    "dp203-obsidian/book/SCD 3 type.md",
-    "dp203-obsidian/book/SCD 2 type.md",
-    "dp203-obsidian/book/SCD 1 type.md",
-    "dp203-obsidian/book/UDP port.md",
-    "dp203-obsidian/book/TCP port.md",
-    "dp203-obsidian/book/Partitions.md",
-    "dp203-obsidian/book/Indexing.md",
-    "dp203-obsidian/book/Distribution.md",
-    "dp203-obsidian/book/Integration Runtime Types.md",
-    "dp203-obsidian/book/Streaming.md",
-    "dp203-obsidian/Databricks/Worker nodes.md",
-    "dp203-obsidian/book",
-    "dp203-obsidian/Databricks/Databricks.md",
-    "dp203-obsidian/OptimizeStorageProcessing",
-    "dp203-obsidian/DataSecurity",
-    "dp203-obsidian/Datafactory",
-    "dp203-obsidian/AzureSynapse",
-    "dp203-obsidian/Datastorage",
-    "dp203-obsidian/Databricks"
+    "dp-203_obsidian/dp203-obsidian/DataSecurity/Using Azure Active Directory.md",
+    "dp-203_obsidian/dp203-obsidian/DP-203.md",
+    "dp-203_obsidian/dp203-obsidian/Datastorage/Azure storage account.md"
   ]
 }
