@@ -1,0 +1,7 @@
+[[Annie Wood Besant]]
+[[Tulpa Dawa Lama]]
+[[Andréa O.X]]
+[[Motinha]]
+[[Գեորգի Իվանովիչ Գյուրջիև]]
+[[Karina Milei]]
+[[Mitchell Feigenbaum]]

@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "7bff45b1d94d316b",
+    "id": "569a558f0646726b",
     "type": "split",
     "children": [
       {
-        "id": "ed0596b45e8b5d41",
+        "id": "fef85daddbc8bb2c",
         "type": "tabs",
         "children": [
           {
-            "id": "09d08a6a12c00eed",
+            "id": "92226e229541232c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Conan Fi φ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d2bac6f1dbf08b93",
+    "id": "55600bb30c436135",
     "type": "split",
     "children": [
       {
-        "id": "18f31097bd4576de",
+        "id": "4f871b56c864c1a2",
         "type": "tabs",
         "children": [
           {
-            "id": "aea29d8cbc295725",
+            "id": "e54816c7e9bfff71",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "2fd6045fa8b21f03",
+            "id": "e7e3f9d40657cc1a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "11f718b16b488df6",
+            "id": "77965645bee9cb18",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "de274d8545618732",
+    "id": "b58e83f1ed03e565",
     "type": "split",
     "children": [
       {
-        "id": "0b838deb8776ae00",
+        "id": "86b83c1de19c1197",
         "type": "tabs",
         "children": [
           {
-            "id": "10a960ae579161fe",
+            "id": "9d277e9702196ac3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personagens/Conan Fi φ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "1f18a11e6c9c0a77",
+            "id": "be85578e93712917",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personagens/Conan Fi φ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4537f9bc49eb1017",
+            "id": "d6f346160a962c6f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "d53ddcf5c7ce6441",
+            "id": "d3a58490e2fe3d5d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personagens/Conan Fi φ.md"
+              }
             }
           }
         ]
@@ -138,40 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09d08a6a12c00eed",
+  "active": "92226e229541232c",
   "lastOpenFiles": [
-    "dp203-obsidian/book/Untitled.md",
-    "dp203-obsidian/book/Overlapping.md",
-    "dp203-obsidian/book/No Overlapping.md",
-    "dp203-obsidian/book/Replicated.md",
-    "dp203-obsidian/book/Round Robin.md",
-    "dp203-obsidian/book/Hash.md",
-    "dp203-obsidian/book/Polybase.md",
-    "dp203-obsidian/book/OLTP.md",
-    "dp203-obsidian/book/OLAP.md",
-    "dp203-obsidian/book/CosmosDB.md",
-    "dp203-obsidian/book/Data Factory.md",
-    "dp203-obsidian/book/Encenacao.md",
-    "dp203-obsidian/book/Dim.md",
-    "dp203-obsidian/book/Fac.md",
-    "dp203-obsidian/book/SCD 3 type.md",
-    "dp203-obsidian/book/SCD 2 type.md",
-    "dp203-obsidian/book/SCD 1 type.md",
-    "dp203-obsidian/book/UDP port.md",
-    "dp203-obsidian/book/TCP port.md",
-    "dp203-obsidian/book/Partitions.md",
-    "dp203-obsidian/book/Indexing.md",
-    "dp203-obsidian/book/Distribution.md",
-    "dp203-obsidian/book/Integration Runtime Types.md",
-    "dp203-obsidian/book/Streaming.md",
-    "dp203-obsidian/Databricks/Worker nodes.md",
-    "dp203-obsidian/book",
-    "dp203-obsidian/Databricks/Databricks.md",
-    "dp203-obsidian/OptimizeStorageProcessing",
-    "dp203-obsidian/DataSecurity",
-    "dp203-obsidian/Datafactory",
-    "dp203-obsidian/AzureSynapse",
-    "dp203-obsidian/Datastorage",
-    "dp203-obsidian/Databricks"
+    "Personagens/Conan Omega ω.md",
+    "Personagens/Conan Chi χ.md",
+    "Personagens/Blimunda del Toboso ß.md",
+    "Personagens/Mitchell Feigenbaum.md",
+    "Personagens/Karina Milei.md",
+    "Personagens/Polígona π.md",
+    "Capitulos/Amor.md",
+    "Cafeterias/Սարմունգ.md",
+    "Capitulos",
+    "Personagens/Alexandra David Néel.md",
+    "Personagens/Fracta Φ.md",
+    "Personagens/Conan Sigma Σ.md",
+    "Personagens/Conan Tau τ.md",
+    "Personagens/Conan Upsilon υ.md",
+    "Personagens/Conan Fi φ.md",
+    "Personagens/Conan Psi ψ.md",
+    "Ruas/Rua Garrett 73.md",
+    "Cafeterias/Cafeteria Madame Bovary.md",
+    "Personagens/Elon Musk.md",
+    "Personagens/Piotr Demianovitch Uspenski.md",
+    "Cafeterias/Cafeteria Café Pushkin.md",
+    "Personagens/Helena Lopes.md",
+    "Ruas/Rua Eugénio dos Santos.md",
+    "Ruas/Rua Georg Wilhelm Friedrich Hegel.md",
+    "Cafeterias/Cafeteria Martinho da Arcada.md",
+    "Ruas/Rua Terreiro do Paço.md",
+    "Ruas/Rua de Madalena.md",
+    "Estacoes",
+    "Ruas",
+    "Cafeterias",
+    "Personagens"
   ]
 }

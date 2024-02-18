@@ -1,0 +1,1 @@
+**“A vinícola foi  incendiada pelos Robôs Policiais do Governo Comunista Mundial, eles prenderam e interrogam Omega ω, Psi ψ, Chi χ, Fi φ, Upsilon υ, Tau τ, Sigma Σ, todavia eu escapei, porém Blimunda del Toboso ß foi presa na Ilha do Diabo Gulag, estou no barco Papillon próxima a praia Henri Charrière  venha urgente !**
