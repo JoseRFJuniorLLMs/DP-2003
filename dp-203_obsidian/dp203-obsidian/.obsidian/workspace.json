@@ -83,12 +83,8 @@
             "id": "7768559c6d3e3cca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DP-203.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -129,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#OptimizeStorageProcessing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP-203.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DP-203.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DP-203.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,7 +209,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -251,10 +246,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "836a72da80909bfb",
+  "active": "7768559c6d3e3cca",
   "lastOpenFiles": [
-    "Charged when underlying jobs are running.md",
     "DP-203.md",
+    "Charged when underlying jobs are running.md",
     "ADF components.md",
     "Surrogate keys for dimension tables.md",
     "Not charged on creation of pool.md",
